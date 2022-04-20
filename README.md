@@ -3,21 +3,15 @@
 #### 介绍
 Java技术栈之ElasticSearch学习
 
-#### 软件架构
-软件架构说明
+#### 概念
+Elasticsearch是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。
+
+#### 作用
+全文搜索
+
+#### 思维导图
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
