@@ -10,7 +10,7 @@ Elasticsearch是一个基于Lucene的搜索服务器。它提供了一个分布�
 全文搜索
 
 #### 思维导图
-
+![image](https://github.com/CONTINUE12/Elasticsearch_course/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
 
 #### 参与贡献
